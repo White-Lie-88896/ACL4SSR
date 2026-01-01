@@ -1,0 +1,79 @@
+# 内容：香港银行域名
+# 数量：52条
+
+# === 传统银行 Traditional Banks ===
+
+# 中国银行(香港) Bank of China (Hong Kong)
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochk.com.hk
+
+# 汇丰银行 HSBC
+DOMAIN-SUFFIX,hsbc.co.uk
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbcnet.com
+
+# 恒生银行 Hang Seng Bank
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+
+# 渣打银行 Standard Chartered
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,sc.com.hk
+DOMAIN-SUFFIX,standardchartered.com.hk
+
+# 花旗银行 Citibank
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citibank.com.hk
+DOMAIN-SUFFIX,citibankonline.com
+
+# 东亚银行 Bank of East Asia
+DOMAIN-SUFFIX,bea.com.hk
+DOMAIN-SUFFIX,hkbea.com
+
+# 大新银行 Dah Sing Bank
+DOMAIN-SUFFIX,dahsing.com
+DOMAIN-SUFFIX,dahsing.com.hk
+
+# 集友银行 Chiyu Banking Corporation
+DOMAIN-SUFFIX,chbank.com
+DOMAIN-SUFFIX,chbank.com.hk
+
+# 南洋商业银行 Nanyang Commercial Bank
+DOMAIN-SUFFIX,nycbank.com.hk
+
+# 上海商业银行 Shanghai Commercial Bank
+DOMAIN-SUFFIX,shacombank.com.hk
+
+# 中信银行国际 CNCB International
+DOMAIN-SUFFIX,cncbi.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+
+# === 虚拟银行 Virtual Banks ===
+
+# 众安银行 ZA Bank
+DOMAIN-SUFFIX,bankappgw.za.group
+DOMAIN-SUFFIX,za.bank
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zabank.com.hk
+DOMAIN-SUFFIX,zabank.hk
+
+# 天星银行 Airstar Bank
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,airstarbank.hk
+
+# 理慧银行 Livi Bank
+DOMAIN-SUFFIX,livi.com.hk
+
+# 匯立银行 WeLab Bank
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,welabbank.com.hk
+
+# Mox Bank
+DOMAIN-SUFFIX,mox.com
+DOMAIN-SUFFIX,mox.com.hk
+DOMAIN-SUFFIX,moxbank.com
+
+# 富融银行 Fusion Bank
+DOMAIN-SUFFIX,fusionbank.com.hk
