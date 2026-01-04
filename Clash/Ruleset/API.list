@@ -1,0 +1,19 @@
+  rules:
+    # Cryptocompare API
+    - DOMAIN-SUFFIX,cryptocompare.com,代理节点名称
+
+    # CoinGecko API  
+    - DOMAIN-SUFFIX,coingecko.com,代理节点名称
+
+    # Binance API（备用）
+    - DOMAIN-SUFFIX,binance.com,代理节点名称
+
+    # Telegram API（必需）
+    - DOMAIN-SUFFIX,telegram.org,代理节点名称
+
+  或者更精确的规则：
+  rules:
+    - DOMAIN,min-api.cryptocompare.com,代理节点名称
+    - DOMAIN,api.coingecko.com,代理节点名称
+    - DOMAIN,api.binance.com,代理节点名称
+    - DOMAIN,api.telegram.org,代理节点名称
