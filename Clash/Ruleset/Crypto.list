@@ -311,3 +311,14 @@ DOMAIN-SUFFIX,chippay.com
 
 # > UniSat
 DOMAIN-SUFFIX,unisat.io
+
+# BIT 平台专属核心域名
+DOMAIN-SUFFIX,bit.com
+DOMAIN-SUFFIX,bit.xyz
+
+# 关联的母品牌及资产通道（强烈建议一并加入）
+DOMAIN-SUFFIX,matrixport.com
+DOMAIN-SUFFIX,matrixport.io
+
+# 备用或可能的关键字防漏
+DOMAIN-KEYWORD,matrixport
