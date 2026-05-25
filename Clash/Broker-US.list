@@ -13,6 +13,7 @@
 
 # 主站 / 交易 / App API
 DOMAIN-SUFFIX,firstrade.com
+DOMAIN-KEYWORD,firstrade
 
 # 帮助中心
 DOMAIN-SUFFIX,firstrade.info
