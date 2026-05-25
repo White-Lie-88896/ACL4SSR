@@ -1,0 +1,77 @@
+# ████████████████████████████████████
+# 美股券商分流规则 - 走美国节点
+# 第一证券 (Firstrade) + 嘉信理财 (Charles Schwab)
+# 数据来源：官方 Help Center + Netify 域名数据库
+# 更新时间：2025-05
+# ████████████████████████████████████
+
+
+# ══════════════════════════════════════
+# 第一证券 Firstrade
+# 来源：help.firstrade.info 官方域名公告
+# ══════════════════════════════════════
+
+# 主站 / 交易 / App API
+DOMAIN-SUFFIX,firstrade.com
+
+# 帮助中心
+DOMAIN-SUFFIX,firstrade.info
+
+# CDN / 静态资源
+DOMAIN-SUFFIX,cdn.firstrade.com
+
+# 开户入口（实际为 firstrade.com 子域，SUFFIX 已覆盖，此处备注）
+# invest.firstrade.com
+# signup.firstrade.com
+
+# 清算商 Apex Clearing（账户数据、持仓、资金）
+DOMAIN-SUFFIX,apexclearing.com
+DOMAIN-SUFFIX,apexfintechsolutions.com
+
+# 文件投递（税表、月结单、交易确认书）
+DOMAIN-SUFFIX,proxyvote.com
+DOMAIN-SUFFIX,icsdelivery.com
+DOMAIN-SUFFIX,investordelivery.com
+DOMAIN-SUFFIX,documentmailbox.com
+
+# hCaptcha（登录验证，第一证券登录页使用）
+DOMAIN-SUFFIX,hcaptcha.com
+
+
+# ══════════════════════════════════════
+# 嘉信理财 Charles Schwab
+# 来源：Netify 域名数据库 + 实测
+# ══════════════════════════════════════
+
+# 主站 / 交易 / App / API
+DOMAIN-SUFFIX,schwab.com
+
+# 官网 CDN / 静态资源
+DOMAIN-SUFFIX,schwabcdn.com
+
+# 企业官网 / 投资者关系
+DOMAIN-SUFFIX,aboutschwab.com
+
+# 资产管理
+DOMAIN-SUFFIX,schwabassetmanagement.com
+
+# 内网 / 机构业务（零售用户基本不涉及，保守加上）
+DOMAIN-SUFFIX,schwab.net
+
+# Schwab 财经直播频道
+DOMAIN-SUFFIX,schwab-network.com
+
+# TD Ameritrade（嘉信已并购，部分 API / 旧账户仍在用）
+DOMAIN-SUFFIX,tdameritrade.com
+
+# thinkorswim 交易软件
+DOMAIN-SUFFIX,thinkorswim.com
+
+# 股权激励计划平台（公司员工持股等，普通用户可不加）
+DOMAIN-SUFFIX,schwabplan.com
+DOMAIN-SUFFIX,schwabstockplan.com
+
+# 文件投递（与 Firstrade 共用部分）
+DOMAIN-SUFFIX,proxyvote.com
+DOMAIN-SUFFIX,icsdelivery.com
+DOMAIN-SUFFIX,investordelivery.com
