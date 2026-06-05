@@ -1,0 +1,36 @@
+# ══════════════════════════════════════
+# 长桥证券 Longbridge / LongPort
+# ══════════════════════════════════════
+
+# 主站 / Web Trade / App
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridge.global
+
+# LongPort / 旧品牌 / 国际 App
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,longbridgeapp.com
+
+# OpenAPI / 行情 / 交易
+DOMAIN-SUFFIX,open.longbridge.com
+DOMAIN-SUFFIX,openapi.longbridge.com
+DOMAIN-SUFFIX,openapi-quote.longbridge.com
+DOMAIN-SUFFIX,openapi-trade.longbridge.com
+
+# 旧 OpenAPI / SDK 兼容
+DOMAIN-SUFFIX,open.longportapp.com
+DOMAIN-SUFFIX,openapi.longportapp.com
+DOMAIN-SUFFIX,openapi-quote.longportapp.com
+DOMAIN-SUFFIX,openapi-trade.longportapp.com
+
+# 中国大陆加速接口，可选
+DOMAIN-SUFFIX,longbridge.cn
+DOMAIN-SUFFIX,openapi-quote.longbridge.cn
+DOMAIN-SUFFIX,openapi-trade.longbridge.cn
+
+# 静态资源 / 协议 / 状态 / 隐私政策
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,status.longbridge.com
+DOMAIN-SUFFIX,longbridgewhale.com
