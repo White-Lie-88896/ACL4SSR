@@ -3,6 +3,7 @@ function filter(config, profile) {
   if (!config.proxies || !config['proxy-groups']) {
     return config;
   }
+
   // 1. 筛选出所有类型为 relay 的策略组
   const relayGroups = config['proxy-groups'].filter(g => g.type === 'relay');
   
@@ -10,7 +11,7 @@ function filter(config, profile) {
   for (const group of relayGroups) {
     if (!group.proxies || group.proxies.length < 2) continue;
     
-    const entryGroupName = group.proxies[0];     // 中转入口组 (例如: ⚡ 自动入口)
+    const entryGroupName = group.proxies[0];     // 中转入口组
     const secondProxyName = group.proxies[1];
     
     let landingNodes = [];
