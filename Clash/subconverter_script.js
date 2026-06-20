@@ -11,7 +11,7 @@ function filter(config, profile) {
   for (const group of relayGroups) {
     if (!group.proxies || group.proxies.length < 2) continue;
     
-    const entryGroupName = group.proxies[0];     // 中转入口组
+    const entryGroupName = group.proxies[0];     // 中转入口组 (例如: 🚀 中转节点)
     const secondProxyName = group.proxies[1];
     
     let landingNodes = [];
