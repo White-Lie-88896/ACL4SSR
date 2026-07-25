@@ -1,0 +1,7 @@
+# 内容：国外 DNS 上游出口
+# 用于 OxiDNS 的 Google、Cloudflare 及流媒体 DNS 上游
+
+DOMAIN,dns.google
+DOMAIN,cloudflare-dns.com
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
