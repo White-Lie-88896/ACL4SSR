@@ -1,0 +1,24 @@
+# 内容：交易与金融 App
+# 数量：10条
+
+# Kliq（土耳其电子钱包）
+DOMAIN-SUFFIX,kliq.com.tr
+
+# iFAST Global Bank（英国）
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifast-aws.com
+
+# Kraken
+DOMAIN-SUFFIX,kraken.com
+
+# Wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+
+# N26
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,tech26.de
+
+# SafePal
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,safepal.io
