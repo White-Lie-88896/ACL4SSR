@@ -1,0 +1,6 @@
+# O2 / giffgaff WiFi Calling (VoWiFi) ePDG
+# Keep these rules above general proxy/direct rules.
+
+DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+IP-CIDR,87.194.8.0/23,no-resolve
+IP-CIDR,87.194.88.0/23,no-resolve
